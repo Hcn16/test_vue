@@ -1,0 +1,1 @@
+import{_ as a,c as n,a as c,b as t,w as i,r as o,o as _,d}from"./index-b0vZxYPq.js";const l={},u={class:"about"};function p(f,e){const r=o("RouterLink"),s=o("router-view");return _(),n("div",u,[e[1]||(e[1]=c("h1",null,"This is an Create page",-1)),t(r,{to:"/create/detail/"},{default:i(()=>e[0]||(e[0]=[d("details")])),_:1}),t(s)])}const w=a(l,[["render",p]]);export{w as default};
